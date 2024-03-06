@@ -3,7 +3,5 @@ This is a demo repository for Geog-software-Design in 2024.
 
 From now onwards we will learn the geo design software
 
-This is the animation for geographic  software Design 
+This is the animation for geographic  software design 
 ![ ](https://i.gifer.com/hFZ.gif)
-
- 
